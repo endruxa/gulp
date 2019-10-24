@@ -1,0 +1,11 @@
+npm install gulp-cli -g//глобальная установка
+npm i gulp// в своей рабочей папке
+npm init -y//создаем package.json
+создаем папку src=>ccs + js => .css/.js
+создаем папку build => css/js
+создаем index.html
+npm install --save-dev gulp-concat//npm i -D gulp-concat
+npm install --save-dev gulp-autoprefixer// npm i -D gulp-autoprefixer
+npm install gulp-clean-css --save-dev/npm i gulp-clean-css
+npm install del//npm i del
+npm install browser-sync gulp --save-dev

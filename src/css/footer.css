@@ -1,0 +1,15 @@
+h1 {
+    color: indigo;
+}
+
+.row {
+    display: flex;
+}
+
+::placeholder {
+  color: gray;
+}
+
+li {
+  color:red
+}
